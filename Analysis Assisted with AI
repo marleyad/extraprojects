@@ -88,4 +88,4 @@ HAVING COUNT(s.problem_id) IS NOT NULL
 ORDER BY COUNT(s.problem_id) DESC
 LIMIT 12;
 
---- I used AI to get the problem fixed. It fixed the problem by recommending the second alias should be coded as such in this code
+--- I used AI to get the problem resolved. It fixed the problem by recommending the second alias should be coded as such in this code
